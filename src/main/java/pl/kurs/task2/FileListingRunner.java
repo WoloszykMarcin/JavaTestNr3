@@ -60,13 +60,13 @@ public class FileListingRunner {
     //ZESTAWIENIE z dwóch workspace'ów:
 
     // Workspace nr 1: (kurs Javy)
-        //    TUESDAY=43
-        //    MONDAY=123
-        //    SUNDAY=8
-        //    SATURDAY=8
-        //    THURSDAY=69
-        //    FRIDAY=21
-        //    WEDNESDAY=20
+        //        TUESDAY=52
+        //        MONDAY=123
+        //        SUNDAY=8
+        //        SATURDAY=8
+        //        THURSDAY=86
+        //        FRIDAY=22
+        //        WEDNESDAY=20
 
     // Workspace nr 2:
         //    SUNDAY=80
