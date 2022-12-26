@@ -57,22 +57,22 @@ public class FileListingRunner {
 }
 
 
-    //ZESTAWIENIE z dwóch workspace'ów:
+//ZESTAWIENIE z dwóch workspace'ów:
 
-    // Workspace nr 1: (kurs Javy)
-        //        TUESDAY=52
-        //        MONDAY=123
-        //        SUNDAY=8
-        //        SATURDAY=8
-        //        THURSDAY=86
-        //        FRIDAY=22
-        //        WEDNESDAY=20
+// Workspace nr 1: (kurs Javy)
+//    MONDAY=123
+//    TUESDAY=52
+//    WEDNESDAY=20
+//    THURSDAY=86
+//    FRIDAY=22
+//    SATURDAY=8
+//    SUNDAY=8
 
-    // Workspace nr 2:
-        //    SUNDAY=80
-        //    SATURDAY=21
-        //    FRIDAY=47
-        //    THURSDAY=25
-        //    WEDNESDAY=75
-        //    MONDAY=5
+// Workspace nr 2:
+//    MONDAY=5
+//    WEDNESDAY=75
+//    THURSDAY=25
+//    FRIDAY=47
+//    SATURDAY=21
+//    SUNDAY=80
 
